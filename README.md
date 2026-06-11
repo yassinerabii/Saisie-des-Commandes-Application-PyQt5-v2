@@ -134,3 +134,4 @@ Pour une documentation détaillée de l'architecture MVC, consultez [STRUCTURE_M
 ## 📝 Licence
 
 Projet libre d'utilisation.
+# saisie-des-commandes-V2-PyQt5

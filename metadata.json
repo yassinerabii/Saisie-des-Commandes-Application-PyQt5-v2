@@ -1,0 +1,8 @@
+{
+  "name": "Saisie des Commandes",
+  "description": "Application web de saisie et d'enregistrement de commandes avec motifs d'escalade et gestion CSV, migrée depuis PyQt5.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
